@@ -124,7 +124,7 @@
     [How I Stole Plunker Session Tokens with an Angular Expression](https://royaljay.com/security/angular-expression-injections/)
 
  ---
-10. `Thoughtful Component Design` [Jeremy Elbourne](https://twitter.com/jelbourn) & [Miles Malerba](https://twitter.com/milesmalerba) - [Github](https://github.com/angular/material2) | [Slides](https://goo.gl/TvRLlu) | [Youtube](https://www.youtube.com/watch?v=0BikjL858OQ)
+(/) 10. `Thoughtful Component Design` [Jeremy Elbourne](https://twitter.com/jelbourn) & [Miles Malerba](https://twitter.com/milesmalerba) - [Github](https://github.com/angular/material2) | [Slides](https://goo.gl/TvRLlu) | [Youtube](https://www.youtube.com/watch?v=0BikjL858OQ)
 
     Resources pointed by speaker
 
