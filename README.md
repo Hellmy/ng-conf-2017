@@ -522,10 +522,12 @@ Interesting points - it's about knowing everything has a tax and every decision 
     [More about Brain Drain](https://biznas.io/blog/2017/04/05/ngconf2017-memory-leak-brain-drain-talk-by-biznas-lead-dev-jon-boyd/)
 
 
-15. `Kick Your Components up a Notch with Directives BAM!` [Mike Brocchi](https://twitter.com/Brocco) | [Slides](https://docs.google.com/presentation/d/17_RMceQBuTrR2m2vgnJaE7raVh8-69ipCnu6uFk8vJI/edit#slide=id.g128d8fde34_1_2) | [Youtube](https://www.youtube.com/watch?v=VkfHZiMqEd4)
+(/) 15. `Kick Your Components up a Notch with Directives BAM!` [Mike Brocchi](https://twitter.com/Brocco) | [Slides](https://docs.google.com/presentation/d/17_RMceQBuTrR2m2vgnJaE7raVh8-69ipCnu6uFk8vJI/edit#slide=id.g128d8fde34_1_2) | [Youtube](https://www.youtube.com/watch?v=VkfHZiMqEd4)
+
+Directives are a possiblity to extract behaviour out of a component into something reusable!! Directives enable also to encapsulate parent styling - which could also be seen as something behavioural!
 
 
-16. `Lost in Translation` [Oliver Combe]() | [Slides](https://docs.google.com/presentation/d/1l7kr_OdSxiobAVkTrMG-LGxqsJcj9Fd1zJTNpVXSu7A/edit#slide=id.g128d8fde34_1_2) | [Youtube](https://www.youtube.com/watch?v=dihyu1a2bPc)
+(/) 16. `Lost in Translation` [Oliver Combe]() | [Slides](https://docs.google.com/presentation/d/1l7kr_OdSxiobAVkTrMG-LGxqsJcj9Fd1zJTNpVXSu7A/edit#slide=id.g128d8fde34_1_2) | [Youtube](https://www.youtube.com/watch?v=dihyu1a2bPc)
 
     Resourcs pointed by speaker
 
@@ -548,6 +550,9 @@ Interesting points - it's about knowing everything has a tax and every decision 
     [Design for internationalization, by John Saito from the Dropbox Design Team](https://medium.com/dropbox-design/design-for-internationalization-24c12ea6b38f)
 
 
+Notes: Good points about translations with many practical showcase how to do it in the application but seems like also already be shown in the documentation!
+
+ 
 17.`Step by Step Improving Startup Performance with Lazy Loading in Angular` - [Manfred Steyer](https://twitter.com/ManfredSteyer) | [Slides](https://speakerdeck.com/manfredsteyer/improving-start-up-performance-with-lazy-loading-in-angular-3) | [Youtube](https://www.youtube.com/watch?v=8VLYjt81-fE)
 
     Resources pointed by speaker
@@ -770,7 +775,7 @@ More coming soon... Star/Bookmark this repo ....
 
     - Implement LanguageServiceHost interface
 
-6. `Angular Form Validation` [Kara Erickson](https://twitter.com/karaforthewin)  - Github - Coming soon | [Slides](https://docs.google.com/presentation/d/1jn52fjrmvuXn5Jv2gP8ckETiKCW057Q63faMRfW3bkw/pub?start=false&loop=false&delayms=3000&slide=id.g128d8fde34_1_2) | [Youtube](https://www.youtube.com/watch?v=kM5QBOWrUVI)
+(/) 6. `Angular Form Validation` [Kara Erickson](https://twitter.com/karaforthewin)  - Github - Coming soon | [Slides](https://docs.google.com/presentation/d/1jn52fjrmvuXn5Jv2gP8ckETiKCW057Q63faMRfW3bkw/pub?start=false&loop=false&delayms=3000&slide=id.g128d8fde34_1_2) | [Youtube](https://www.youtube.com/watch?v=kM5QBOWrUVI)
 
     Resources pointed by speaker
 
@@ -789,6 +794,9 @@ More coming soon... Star/Bookmark this repo ....
     [Reactive Forms Validation in Angular - By Todd Moto](https://toddmotto.com/reactive-formgroup-validation-angular-2)
 
     [Custom Validators in Template Driven Angular Forms](https://juristr.com/blog/2016/11/ng2-template-driven-form-validators/)
+    
+    
+    Notes: Nice presentition about the angular validation and new features how to customize to validators!
 
 7. `Breaking The Eyes` [Uri Shaked](https://twitter.com/UriShaked)  - [Youtube](https://www.youtube.com/watch?v=MMxJe4W1P4A)
 
@@ -885,11 +893,14 @@ More coming soon... Star/Bookmark this repo ....
 
      [ngconf Demo App](http://bit.ly/ngconf-functions)
 
-18. `Best Practices` [Stephen Fluin](https://twitter.com/stephenfluin) | [Slides](https://docs.google.com/presentation/d/1dlEE3JMmFtsb1FdFmxhj-vxEfWPfDVp5pXf-YbqAj8o/preview?slide=id.p) | [Youtube](https://www.youtube.com/watch?v=hHNUohOPCCo)
+(/) 18. `Best Practices` [Stephen Fluin](https://twitter.com/stephenfluin) | [Slides](https://docs.google.com/presentation/d/1dlEE3JMmFtsb1FdFmxhj-vxEfWPfDVp5pXf-YbqAj8o/preview?slide=id.p) | [Youtube](https://www.youtube.com/watch?v=hHNUohOPCCo)
 
     [Angular Style Guide](https://angular.io/styleguide)
 
     [Source Map Explorer](https://www.npmjs.com/package/source-map-explorer)
+    
+    
+    Much about the size and how to shrinken it! Always think about the size and what happens there!!! Also stay up to date and know what you are importing and for what.
 
 
 19. `Angular Team Panel - ngPanel - Q/A` [Youtube](https://www.youtube.com/watch?v=rboo-s9yq8s)
