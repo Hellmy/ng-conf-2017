@@ -91,7 +91,9 @@
     [Child Injectors - Lazy Loading](https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-why-child-injector)
 
  ---
-6. `Embrace Component Tranquility` [Justin Schwartzenberger](https://twitter.com/schwarty) - [Slides](https://jschwarty.github.io/ngconf-2017-embrace-component-tranquility/) | [Youtube](https://www.youtube.com/watch?v=d7fLYenKy-I)
+(/) 6. `Embrace Component Tranquility` [Justin Schwartzenberger](https://twitter.com/schwarty) - [Slides](https://jschwarty.github.io/ngconf-2017-embrace-component-tranquility/) | [Youtube](https://www.youtube.com/watch?v=d7fLYenKy-I)
+
+Interesting points - it's about knowing everything has a tax and every decision comes with some advantages and backdraws. Always think about how the components have to be split up or could be coupled or where this coupling points will be. Be aware about the coupling and think about it - is it really important or what are again the advantages to do it the way we are planning to do it.
 
  ---
 7. `Animations in Angular 4.0.0` [MatiasNiemela](https://twitter.com/yearofmoo) - [Slides](http://slides.yearofmoo.com/ng-conf-2017-slides/#/0/0/) | [Demo](yom.nu/ng-conf-2017-demo)  |  [Github](yom.nu/ng-conf-2017-code) | [Youtube](https://www.youtube.com/watch?v=Oh9wj-1p2BM)
