@@ -129,6 +129,8 @@
     Resources pointed by speaker
 
     [Material.io ](https://material.angular.io/)
+    
+    Notes: Interesting part about how to design components API. Later on its also about DOM manipulation and how to encapsulate that...
 
  ---
 11. `Back from the past: A tale of helping others upgrade from Angular 1.x` [Sergio Cruz](https://twitter.com/hashtagserg) - [Slides](https://cl.ly/1T141I0a1n2T ) | [Youtube](https://www.youtube.com/watch?v=FFhJSkI35U8)
